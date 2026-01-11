@@ -1,0 +1,51 @@
+Module,Unit,Words,0,1,2
+M1,U1,volcanologist,0,3,15
+M1,U1,release,0,5,4
+M1,U1,pressure,9,6,3
+M1,U1,erupt,9,6,3
+M1,U1,heat,0,10,8
+M1,U2,analyze,0,5,3
+M1,U2,minerals,0,5,3
+M1,U2,geologist,10,5,3
+M1,U2,property,10,5,3
+M1,U2,impact,10,5,3
+M1,U3,extreme,0,3,15
+M1,U3,condition,0,5,4
+M1,U3,measure,9,6,3
+M1,U3,atmosphere,9,6,3
+M1,U3,evaporation,0,10,8
+M2,U1,species,0,5,3
+M2,U1,pattern,0,5,3
+M2,U1,migrate,10,5,3
+M2,U1,habitat,10,5,3
+M2,U1,erosion,10,5,3
+M2,U2,explore,0,3,15
+M2,U2,investigate,0,5,4
+M2,U2,evidence,9,6,3
+M2,U2,accumulate,9,6,3
+M2,U2,increase,0,10,8
+M2,U3,balance,0,5,3
+M2,U3,ecosystem,0,5,3
+M2,U3,conserve,10,5,3
+M2,U3,climate,10,5,3
+M2,U3,resource,10,5,3
+M3,U1,hypothesis,0,3,15
+M3,U1,contrast,0,5,4
+M3,U1,trait,9,6,3
+M3,U1,thrive,9,6,3
+M3,U2,predator,0,10,8
+M3,U2,thermal,0,5,3
+M3,U2,distinguish,0,5,3
+M3,U2,nutrients,10,5,3
+M3,U3,organism,10,5,3
+M3,U3,cycle,10,5,3
+M3,U3,identify,0,3,15
+M3,U3,attract,0,5,4
+M4,U1,adapt ,9,6,3
+M4,U1,hazardous ,9,6,3
+M4,U1,region ,0,10,8
+M4,U1,culture ,0,5,3
+M4,U2,geography ,0,5,3
+M4,U2,symbol  ,10,5,3
+M4,U2,direction  ,10,5,3
+M4,U2,landform  ,10,5,3
